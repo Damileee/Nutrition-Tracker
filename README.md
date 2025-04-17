@@ -14,7 +14,7 @@ Features
 
 Installation
 	1.	Clone the repository:
-git clone https://github.com/your-username/nutrition-tracker.git
+git clone https://github.com/damileee/Nutrition-Tracker.git
 cd nutrition-tracker
 
 Project Structure
